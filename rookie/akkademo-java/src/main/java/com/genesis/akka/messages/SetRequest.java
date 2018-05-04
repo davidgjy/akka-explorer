@@ -20,7 +20,6 @@ public class SetRequest {
     @Override
     public String toString() {
         return "Set{" + "key='" + key + '\'' +
-                ", value=" + value +
-                '}';
+                ", value=" + value + "}";
     }
 }
